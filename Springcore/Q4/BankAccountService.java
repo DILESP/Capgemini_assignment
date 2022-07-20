@@ -1,4 +1,4 @@
-package com.capgemini.springAssignment.Q3;
+package com.capgemini.springAssignment.Q4;
 
 public interface BankAccountService {
     public double withdraw(long accountId, double balance);
